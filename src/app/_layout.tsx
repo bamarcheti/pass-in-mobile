@@ -3,6 +3,7 @@ import "@/styles/global.css";
 import { Slot } from "expo-router";
 
 import { Loading } from "@/components/loading";
+
 import {
   Roboto_400Regular,
   Roboto_500Medium,
