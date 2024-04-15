@@ -4,7 +4,7 @@
 
 Projeto construído durante Imersão da NLW Unite de React Native da Rocketseat com o objetivo de desenvolver um sistema de gestão de participantes em eventos.
 
-[**🔗 Clique aqui para acessar**](https://github.com/bamarcheti/pass-in-web)
+[**🔗 Clique aqui para acessar**](https://appetize.io/app/e3fned3uz2ae32jtckgotzfory?device=pixel7&osVersion=13.0)
 
 ## **🛠 Tecnologias**
 
